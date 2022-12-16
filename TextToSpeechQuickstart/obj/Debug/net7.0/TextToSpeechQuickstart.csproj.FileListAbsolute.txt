@@ -1,0 +1,15 @@
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\bin\Debug\net7.0\TextToSpeechQuickstart.exe
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\bin\Debug\net7.0\TextToSpeechQuickstart.deps.json
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\bin\Debug\net7.0\TextToSpeechQuickstart.runtimeconfig.json
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\bin\Debug\net7.0\TextToSpeechQuickstart.dll
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\bin\Debug\net7.0\TextToSpeechQuickstart.pdb
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.csproj.AssemblyReference.cache
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.AssemblyInfoInputs.cache
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.AssemblyInfo.cs
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.csproj.CoreCompileInputs.cache
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.dll
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\refint\TextToSpeechQuickstart.dll
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.pdb
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\TextToSpeechQuickstart.genruntimeconfig.cache
+C:\ACS\gitRepo\NewRepo\TextToSpeechQuickstart\obj\Debug\net7.0\ref\TextToSpeechQuickstart.dll
